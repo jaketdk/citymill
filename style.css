@@ -1,0 +1,42 @@
+.citymill-background{
+  background: url('http://www.citymill.com/wp-content/uploads/2016/09/Free-Seamless-Wood-Textures-Patterns-For-3D-Mapping-2.jpg');
+  background-size: auto;
+}
+.ui.container.outer{
+  width: 1000px;
+  max-width: 1000px;
+  min-width: 1000px;
+  background: white;
+}
+.ui.borderless.menu{
+  background: red;
+  border: none;
+  box-shadow: none;
+}
+.menu-text{
+  color: white;
+}
+.with-padding{
+  padding: 25px;
+}
+
+.with-border{
+  border: 1px solid black;
+}
+
+.no-padding{
+  padding: 0px;
+}
+.halfwidth{
+  width: 50%;
+}
+.leftright-padding{
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.right-padding{
+  padding-right: 25px;
+}
+.top-padding{
+  padding-top: 25px;
+}
